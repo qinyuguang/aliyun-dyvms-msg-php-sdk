@@ -1,0 +1,5 @@
+vendor
+*.swp
+cscope.out
+tags
+composer.lock
